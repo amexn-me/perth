@@ -8,8 +8,8 @@ Converted From <a href="https://dribbble.com/shots/1314681-Freebie-PSD-Perth-A-F
 <br />
 Frameworks and Libraries Used:
 <ul>
-    <li><a href="http://getbootstrap.com/">Bootstrap 3.x</a></li>
-    <li><a href="https://jquery.com/">jQuery 1.12.x</a></li>
+    <li><a href="http://getbootstrap.com/">Bootstrap 3</a></li>
+    <li><a href="https://jquery.com/">jQuery 1.12</a></li>
 </ul>
 
 <br />
